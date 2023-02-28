@@ -1,0 +1,127 @@
+[INFO ] 2023-02-20 06:20:43.530 [main] Framework645 - url opened
+[INFO ] 2023-02-20 07:04:43.136 [main] Framework630 - URL Opened
+[INFO ] 2023-02-20 07:04:43.139 [main] Framework630 - Browser Closed.
+[INFO ] 2023-02-20 07:21:08.670 [main] Framework630 - URL Opened
+[INFO ] 2023-02-20 07:21:09.216 [main] Framework630 - Username entered
+[INFO ] 2023-02-20 07:21:09.519 [main] Framework630 - Password entered
+[INFO ] 2023-02-20 07:21:10.010 [main] Framework630 - Clicked on Login button.
+[INFO ] 2023-02-20 07:21:10.011 [main] Framework630 - Browser Closed.
+[INFO ] 2023-02-21 06:32:21.778 [main] Framework630 - URL Opened
+[INFO ] 2023-02-21 06:35:15.596 [main] Framework630 - URL Opened
+[INFO ] 2023-02-21 06:35:16.851 [main] Framework630 - Username entered
+[INFO ] 2023-02-21 06:35:17.047 [main] Framework630 - Password entered
+[INFO ] 2023-02-21 06:35:17.228 [main] Framework630 - Clicked on Login button.
+[INFO ] 2023-02-21 06:35:17.228 [main] Framework630 - Browser Closed.
+[INFO ] 2023-02-21 06:48:42.880 [main] Framework630 - URL Opened
+[INFO ] 2023-02-21 06:48:43.232 [main] Framework630 - Username entered
+[INFO ] 2023-02-21 06:48:43.406 [main] Framework630 - Password entered
+[INFO ] 2023-02-21 06:48:43.546 [main] Framework630 - Clicked on Login button.
+[INFO ] 2023-02-21 06:48:43.547 [main] Framework630 - Browser Closed.
+[INFO ] 2023-02-21 07:05:41.985 [main] Framework630 - URL Opened
+[INFO ] 2023-02-21 07:05:42.229 [main] Framework630 - Username entered
+[INFO ] 2023-02-21 07:05:42.407 [main] Framework630 - Password entered
+[INFO ] 2023-02-21 07:05:42.564 [main] Framework630 - Clicked on Login button.
+[INFO ] 2023-02-21 07:05:42.605 [main] Framework630 - VerifyLogin - Passed
+[INFO ] 2023-02-21 07:05:42.656 [main] Framework630 - Browser Closed.
+[INFO ] 2023-02-21 07:06:56.486 [main] Framework630 - URL Opened
+[INFO ] 2023-02-21 07:06:56.796 [main] Framework630 - Username entered
+[INFO ] 2023-02-21 07:06:56.969 [main] Framework630 - Password entered
+[INFO ] 2023-02-21 07:06:57.088 [main] Framework630 - Clicked on Login button.
+[INFO ] 2023-02-21 07:06:57.106 [main] Framework630 - VerifyLogin - Failed
+[INFO ] 2023-02-21 07:09:29.300 [main] Framework630 - URL Opened
+[INFO ] 2023-02-21 07:09:29.595 [main] Framework630 - Username entered
+[INFO ] 2023-02-21 07:09:29.778 [main] Framework630 - Password entered
+[INFO ] 2023-02-21 07:09:30.020 [main] Framework630 - Clicked on Login button.
+[INFO ] 2023-02-21 07:09:30.040 [main] Framework630 - VerifyLogin - Failed
+[INFO ] 2023-02-21 07:17:28.884 [main] Framework630 - URL Opened
+[INFO ] 2023-02-21 07:17:29.139 [main] Framework630 - Username entered
+[INFO ] 2023-02-21 07:17:29.314 [main] Framework630 - Password entered
+[INFO ] 2023-02-21 07:17:29.600 [main] Framework630 - Clicked on Login button.
+[INFO ] 2023-02-21 07:17:30.007 [main] Framework630 - VerifyLogin - Passed
+[INFO ] 2023-02-21 07:17:30.609 [main] Framework630 - VerifyLogin - Failed
+[INFO ] 2023-02-21 07:21:17.635 [main] Framework630 - URL Opened
+[INFO ] 2023-02-21 07:21:17.930 [main] Framework630 - Username entered
+[INFO ] 2023-02-21 07:21:18.099 [main] Framework630 - Password entered
+[INFO ] 2023-02-21 07:21:18.376 [main] Framework630 - Clicked on Login button.
+[INFO ] 2023-02-21 07:21:18.405 [main] Framework630 - VerifyLogin - Passed
+[INFO ] 2023-02-21 07:21:19.357 [main] Framework630 - VerifyLogin - Failed
+[INFO ] 2023-02-21 07:22:54.777 [main] Framework630 - URL Opened
+[INFO ] 2023-02-21 07:22:55.056 [main] Framework630 - Username entered
+[INFO ] 2023-02-21 07:22:55.239 [main] Framework630 - Password entered
+[INFO ] 2023-02-21 07:22:55.456 [main] Framework630 - Clicked on Login button.
+[INFO ] 2023-02-21 07:22:55.483 [main] Framework630 - VerifyLogin - Passed
+[INFO ] 2023-02-21 07:22:56.246 [main] Framework630 - VerifyProduct - Failed
+[INFO ] 2023-02-21 07:25:02.588 [main] Framework630 - URL Opened
+[INFO ] 2023-02-21 07:25:02.912 [main] Framework630 - Username entered
+[INFO ] 2023-02-21 07:25:03.085 [main] Framework630 - Password entered
+[INFO ] 2023-02-21 07:25:03.561 [main] Framework630 - Clicked on Login button.
+[INFO ] 2023-02-21 07:25:04.155 [main] Framework630 - VerifyLogin - Passed
+[INFO ] 2023-02-21 07:25:04.718 [main] Framework630 - VerifyProductF - Failed
+[INFO ] 2023-02-21 07:25:52.266 [main] Framework630 - URL Opened
+[INFO ] 2023-02-21 07:25:52.559 [main] Framework630 - Username entered
+[INFO ] 2023-02-21 07:25:52.740 [main] Framework630 - Password entered
+[INFO ] 2023-02-21 07:25:53.000 [main] Framework630 - Clicked on Login button.
+[INFO ] 2023-02-21 07:25:53.072 [main] Framework630 - VerifyLogin - Passed
+[INFO ] 2023-02-21 07:25:54.372 [main] Framework630 - VerifyProductP - Passed
+[INFO ] 2023-02-21 07:25:54.373 [main] Framework630 - Browser Closed.
+[INFO ] 2023-02-22 06:47:13.985 [main] Framework630 - URL Opened
+[INFO ] 2023-02-22 06:47:14.272 [main] Framework630 - Username entered
+[INFO ] 2023-02-22 06:47:14.472 [main] Framework630 - Password entered
+[INFO ] 2023-02-22 06:47:14.764 [main] Framework630 - Clicked on Login button.
+[INFO ] 2023-02-22 06:47:14.788 [main] Framework630 - VerifyLogin - Passed
+[INFO ] 2023-02-22 06:47:15.189 [main] Framework630 - VerifyProductP - Passed
+[INFO ] 2023-02-22 06:47:15.920 [main] Framework630 - VerifyLogin - Passed
+[INFO ] 2023-02-22 06:47:15.921 [main] Framework630 - Browser Closed.
+[INFO ] 2023-02-22 06:56:28.025 [main] Framework630 - URL Opened
+[INFO ] 2023-02-22 06:56:28.335 [main] Framework630 - Username entered
+[INFO ] 2023-02-22 06:56:28.512 [main] Framework630 - Password entered
+[INFO ] 2023-02-22 06:56:28.821 [main] Framework630 - Clicked on Login button.
+[INFO ] 2023-02-22 06:56:28.888 [main] Framework630 - VerifyLogin - Passed
+[INFO ] 2023-02-22 06:56:29.600 [main] Framework630 - VerifyProductP - Passed
+[INFO ] 2023-02-22 06:56:29.949 [main] Framework630 - VerifyLogin - Passed
+[INFO ] 2023-02-22 06:56:30.891 [main] Framework630 - Browser Closed.
+[INFO ] 2023-02-22 06:58:04.163 [main] Framework630 - URL Opened
+[INFO ] 2023-02-22 06:58:04.487 [main] Framework630 - Username entered
+[INFO ] 2023-02-22 06:58:04.718 [main] Framework630 - Password entered
+[INFO ] 2023-02-22 06:58:04.996 [main] Framework630 - Clicked on Login button.
+[INFO ] 2023-02-22 06:58:05.091 [main] Framework630 - VerifyLogin - Passed
+[INFO ] 2023-02-22 06:58:06.344 [main] Framework630 - VerifyProductP - Passed
+[INFO ] 2023-02-22 06:58:06.737 [main] Framework630 - VerifyLogin - Passed
+[INFO ] 2023-02-22 06:58:12.486 [main] Framework630 - VerifyLogin - Passed
+[INFO ] 2023-02-22 06:58:12.486 [main] Framework630 - Browser Closed.
+[INFO ] 2023-02-22 07:12:07.047 [main] Framework630 - URL Opened
+[INFO ] 2023-02-22 07:12:07.352 [main] Framework630 - Username entered
+[INFO ] 2023-02-22 07:12:07.541 [main] Framework630 - Password entered
+[INFO ] 2023-02-22 07:12:07.809 [main] Framework630 - Clicked on Login button.
+[INFO ] 2023-02-22 07:12:07.842 [main] Framework630 - VerifyLogin - Passed
+[INFO ] 2023-02-22 07:12:08.629 [main] Framework630 - VerifyProductP - Passed
+[INFO ] 2023-02-22 07:12:09.078 [main] Framework630 - VerifyLogin - Passed
+[INFO ] 2023-02-22 07:12:10.242 [main] Framework630 - VerifyLogin - Passed
+[INFO ] 2023-02-22 07:12:10.591 [main] Framework630 - Browser Closed.
+[INFO ] 2023-02-22 07:16:26.244 [main] Framework630 - URL Opened
+[INFO ] 2023-02-22 07:16:26.579 [main] Framework630 - Username entered
+[INFO ] 2023-02-22 07:16:26.779 [main] Framework630 - Password entered
+[INFO ] 2023-02-22 07:16:27.039 [main] Framework630 - Clicked on Login button.
+[INFO ] 2023-02-22 07:16:27.060 [main] Framework630 - VerifyLogin - Passed
+[INFO ] 2023-02-22 07:16:27.428 [main] Framework630 - VerifyProductP - Passed
+[INFO ] 2023-02-22 07:16:27.982 [main] Framework630 - VerifyLogin - Passed
+[INFO ] 2023-02-22 07:16:29.028 [main] Framework630 - VerifyLogin - Passed
+[INFO ] 2023-02-22 07:16:29.450 [main] Framework630 - Browser Closed.
+[INFO ] 2023-02-24 06:34:48.340 [main] Framework630 - URL Opened
+[INFO ] 2023-02-24 06:34:48.779 [main] Framework630 - Username entered
+[INFO ] 2023-02-24 06:34:49.045 [main] Framework630 - Password entered
+[INFO ] 2023-02-24 06:34:49.457 [main] Framework630 - Clicked on Login button.
+[INFO ] 2023-02-24 06:34:49.547 [main] Framework630 - VerifyLogin - Passed
+[INFO ] 2023-02-24 06:34:50.378 [main] Framework630 - VerifyProductP - Passed
+[INFO ] 2023-02-24 06:34:50.770 [main] Framework630 - VerifyLogin - Passed
+[INFO ] 2023-02-24 06:34:52.402 [main] Framework630 - VerifyLogin - Passed
+[INFO ] 2023-02-24 06:34:52.798 [main] Framework630 - Browser Closed.
+[INFO ] 2023-02-24 16:37:03.072 [main] Framework630 - URL Opened
+[INFO ] 2023-02-24 16:37:03.462 [main] Framework630 - Username entered
+[INFO ] 2023-02-24 16:37:03.609 [main] Framework630 - Password entered
+[INFO ] 2023-02-24 16:37:03.835 [main] Framework630 - Clicked on Login button.
+[INFO ] 2023-02-24 16:37:03.852 [main] Framework630 - VerifyLogin - Passed
+[INFO ] 2023-02-24 16:37:04.126 [main] Framework630 - VerifyProductP - Passed
+[INFO ] 2023-02-24 16:37:04.379 [main] Framework630 - VerifyLogin - Passed
+[INFO ] 2023-02-24 16:37:05.197 [main] Framework630 - VerifyLogin - Passed
+[INFO ] 2023-02-24 16:37:05.366 [main] Framework630 - Browser Closed.

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="com.sauce.utilities.ExtentListener"></listener>
+</listeners>
+  <test name="Sauce Test Execution">
+    <classes>
+      <class name="com.sauce.testCases.Sauce_Final_Test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
